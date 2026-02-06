@@ -10,7 +10,7 @@ This repository hosts verified apps for the StealthApp Store built into StealthO
 
 | App | Description |
 |-----|-------------|
-| Hello World | Sample app demonstrating StealthApp features |
+| Torrent | BitTorrent client with SHA-1 verification and malware scanning |
 
 ## For Developers
 
