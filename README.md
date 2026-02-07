@@ -10,7 +10,7 @@ This repository hosts verified apps for the StealthApp Store built into StealthO
 
 | App | Description |
 |-----|-------------|
-| Torrent | BitTorrent client with SHA-1 verification and malware scanning |
+| Torrent | BitTorrent client with SHA-1 verification and malware scanning. **Disclaimer:** BitTorrent is a peer-to-peer file transfer protocol designed for legitimate content distribution. This app must not be used for any illegal purposes, including the downloading or sharing of copyrighted material without authorization. Users are solely responsible for ensuring compliance with applicable laws. |
 
 ## For Developers
 
